@@ -8,11 +8,13 @@ Sistema de Usuarios: Accesos seguros y personalizados para clientes, vendedores 
 Carrito de Compras: Los clientes pueden agregar productos al carrito y realizar compras directamente desde la página.
 Sucursales: Manejo eficiente del stock en múltiples sucursales.
 Historial de Ventas: Registro detallado de cada transacción realizada en la plataforma.
+
 🛠️ Tecnologías Utilizadas
 Frontend: HTML5, CSS3, JavaScript.
 Backend: Node.js, Express.js.
 Base de Datos: MySQL, implementada en XAMPP.
 Conexión a la Base de Datos: mysql2, dotenv para la gestión de credenciales.
+
 📂 Estructura de la Base de Datos
 La base de datos está optimizada para manejar un volumen considerable de productos y ventas, con tablas para productos, usuarios, sucursales, carritos de compras, y ventas, todas ellas adecuadamente relacionadas para mantener la integridad de los datos.
 
