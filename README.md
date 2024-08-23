@@ -1,4 +1,5 @@
 🛒 Landing Page y Sistema de Gestión para Botillería
+
 Este proyecto es una solución integral para la gestión de una botillería que incluye una landing page moderna y accesos diferenciados para clientes, vendedores y administradores. La aplicación no solo ofrece una interfaz amigable para la venta de productos, sino que también integra un robusto sistema backend para la gestión de inventario, usuarios, y detalles de ventas.
 
 🚀 Características Principales
